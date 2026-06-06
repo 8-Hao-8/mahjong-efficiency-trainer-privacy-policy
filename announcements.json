@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-04T07:55:24+09:00",
+  "generatedAt": "2026-06-07T08:52:28+09:00",
   "items": [
+    {
+      "id": "2026-06-07-intermediate-tenpai-fix",
+      "publishedAt": "2026-06-07T08:52:28+09:00",
+      "category": "bugfix",
+      "priority": "normal",
+      "title": "中級モードの評価を修正",
+      "body": "一部の聴牌局面で、待ちが少ない候補の期待値が不自然に高く出ることがある問題を修正しました。サーバー側の更新のため、アプリを更新しなくても反映されています。",
+      "minAppVersion": "2.0.0",
+      "maxAppVersion": null,
+      "platforms": ["ios"],
+      "highlightUntil": "2026-06-21T23:59:59+09:00",
+      "url": null
+    },
     {
       "id": "2026-06-04-v220-share",
       "publishedAt": "2026-06-04T07:55:24+09:00",
