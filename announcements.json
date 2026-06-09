@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-07T09:29:14+09:00",
+  "generatedAt": "2026-06-09T22:17:13+09:00",
   "items": [
+    {
+      "id": "2026-06-09-v221-share-evaluation",
+      "publishedAt": "2026-06-09T22:17:13+09:00",
+      "category": "app_update",
+      "priority": "normal",
+      "title": "v2.2.1: 共有と評価表示を調整",
+      "body": "iOSで局面を共有するとき、画像と投稿本文を一緒に渡しやすいように見直しました。初級/中級の打牌評価、セッション評価、統計、復習保存の温度感も揃え、アプリ内の短い表示を「向聴」に統一しました。",
+      "minAppVersion": "2.2.1",
+      "maxAppVersion": null,
+      "platforms": ["ios"],
+      "highlightUntil": "2026-06-23T23:59:59+09:00",
+      "url": null
+    },
     {
       "id": "2026-06-07-intermediate-tenpai-fix",
       "publishedAt": "2026-06-07T08:52:28+09:00",
