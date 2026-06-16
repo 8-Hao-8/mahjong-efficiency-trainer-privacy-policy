@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-09T23:17:30+09:00",
+  "generatedAt": "2026-06-17T01:09:25+09:00",
   "items": [
+    {
+      "id": "2026-06-17-v222-update",
+      "publishedAt": "2026-06-17T01:09:25+09:00",
+      "category": "app_update",
+      "priority": "normal",
+      "title": "v2.2.2: 中級表示と暗カン改善",
+      "body": "・中級モードで、打牌直後に微差のEV差も確認できるようにしました。\n・暗カンできる局面で、ボタンを押したときの反応を改善しました。",
+      "minAppVersion": "2.2.2",
+      "maxAppVersion": null,
+      "platforms": ["ios"],
+      "highlightUntil": "2026-07-01T23:59:59+09:00",
+      "url": null
+    },
     {
       "id": "2026-06-09-v221-share-evaluation",
       "publishedAt": "2026-06-09T22:17:13+09:00",
