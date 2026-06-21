@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-17T07:27:33+09:00",
+  "generatedAt": "2026-06-21T23:37:40+09:00",
   "items": [
+    {
+      "id": "2026-06-21-intermediate-evaluation-stability",
+      "publishedAt": "2026-06-21T23:37:40+09:00",
+      "category": "backend_update",
+      "priority": "normal",
+      "title": "中級モードの評価を改善",
+      "body": "中級モードの一部評価ロジックを見直し、局面ごとの期待値判定がより安定するよう改善しました。",
+      "minAppVersion": "2.0.0",
+      "maxAppVersion": null,
+      "platforms": ["ios"],
+      "highlightUntil": "2026-07-05T23:59:59+09:00",
+      "url": null
+    },
     {
       "id": "2026-06-17-v222-update",
       "publishedAt": "2026-06-17T01:09:25+09:00",
