@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-21T23:37:40+09:00",
+  "generatedAt": "2026-06-23T20:20:02+09:00",
   "items": [
+    {
+      "id": "2026-06-23-v223-review-share",
+      "publishedAt": "2026-06-23T20:20:02+09:00",
+      "category": "app_update",
+      "priority": "normal",
+      "title": "v2.2.3: 復習と共有を改善",
+      "body": "・共有画像で、ツモ牌が手牌側にも重なって表示されることがある問題を修正しました。\n・復習結果の比較カードをスクロールできるようにし、前回・今回・おすすめの内容を最後まで確認しやすくしました。\n・復習のおすすめ順を見直し、解答履歴に応じて同じ問題に偏りにくくしました。",
+      "minAppVersion": "2.2.3",
+      "maxAppVersion": null,
+      "platforms": ["ios"],
+      "highlightUntil": "2026-07-07T23:59:59+09:00",
+      "url": null
+    },
     {
       "id": "2026-06-21-intermediate-evaluation-stability",
       "publishedAt": "2026-06-21T23:37:40+09:00",
