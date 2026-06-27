@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-23T20:20:02+09:00",
+  "generatedAt": "2026-06-27T12:54:45+09:00",
   "items": [
+    {
+      "id": "2026-06-27-intermediate-ankan-evaluation",
+      "publishedAt": "2026-06-27T12:54:45+09:00",
+      "category": "bugfix",
+      "priority": "normal",
+      "title": "中級モードの評価を一部改善",
+      "body": "・暗カンを含む一部の局面で、打点を低く見積もることがある問題を修正しました。\n・ホンイツなど一部高打点に向かう選択が、より適切に評価されるようにしました。",
+      "minAppVersion": "2.0.0",
+      "maxAppVersion": null,
+      "platforms": ["ios"],
+      "highlightUntil": "2026-07-11T23:59:59+09:00",
+      "url": null
+    },
     {
       "id": "2026-06-23-v223-review-share",
       "publishedAt": "2026-06-23T20:20:02+09:00",
