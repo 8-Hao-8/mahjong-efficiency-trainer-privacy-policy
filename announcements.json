@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-27T12:54:45+09:00",
+  "generatedAt": "2026-07-12T23:42:25+09:00",
   "items": [
+    {
+      "id": "2026-07-12-v230-personal-analysis",
+      "publishedAt": "2026-07-12T23:42:25+09:00",
+      "category": "app_update",
+      "priority": "normal",
+      "title": "v2.3.0: 結果と統計を改善",
+      "body": "・練習を続けながら、結果画面で評価の理由や自分の傾向を確認しやすくしました。\n・統計から根拠になる場面を見直し、そのまま復習へ進めるようにしました。\n・復習から元の統計へ戻りやすくし、100局・500局・全期間と初級・中級を選んで見比べられるようにしました。",
+      "minAppVersion": "2.3.0",
+      "maxAppVersion": null,
+      "platforms": ["ios"],
+      "highlightUntil": "2026-07-26T23:59:59+09:00",
+      "url": null
+    },
     {
       "id": "2026-06-27-intermediate-ankan-evaluation",
       "publishedAt": "2026-06-27T12:54:45+09:00",
