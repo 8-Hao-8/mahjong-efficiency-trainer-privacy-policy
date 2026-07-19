@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-12T23:42:25+09:00",
+  "generatedAt": "2026-07-19T22:51:26+09:00",
   "items": [
+    {
+      "id": "2026-07-19-intermediate-ev-display",
+      "publishedAt": "2026-07-19T22:51:26+09:00",
+      "category": "bugfix",
+      "priority": "normal",
+      "title": "中級モードの期待値表示を改善",
+      "body": "一部の局面で、流局時の聴牌評価が点数期待値へ含まれ、候補間の差が実際より大きく表示されることがある問題を修正しました。\n表示する期待値と平均和了点を、和了による点数だけをもとにした値へ見直しました。",
+      "minAppVersion": "2.0.0",
+      "maxAppVersion": null,
+      "platforms": ["ios"],
+      "highlightUntil": "2026-08-02T23:59:59+09:00",
+      "url": null
+    },
     {
       "id": "2026-07-12-v230-personal-analysis",
       "publishedAt": "2026-07-12T23:42:25+09:00",
