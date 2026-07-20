@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-19T22:51:26+09:00",
+  "generatedAt": "2026-07-21T07:25:11+09:00",
   "items": [
+    {
+      "id": "2026-07-21-v232-review-improvements",
+      "publishedAt": "2026-07-21T07:25:11+09:00",
+      "category": "app_update",
+      "priority": "normal",
+      "title": "v2.3.2: 復習画面を改善しました",
+      "body": "・結果画面から、確認したい打牌の復習をすぐに開けるようになりました。\n・復習では「実際に切った牌」「復習で選んだ牌」「最善の牌」を並べて比較できます。\n・過去の一部の復習で、同じ牌なのに結果が違って見える問題や、有効牌の枚数が正しく表示されない問題を修正しました。",
+      "minAppVersion": "2.3.2",
+      "maxAppVersion": null,
+      "platforms": ["ios"],
+      "highlightUntil": "2026-08-04T23:59:59+09:00",
+      "url": null
+    },
     {
       "id": "2026-07-19-intermediate-ev-display",
       "publishedAt": "2026-07-19T22:51:26+09:00",
