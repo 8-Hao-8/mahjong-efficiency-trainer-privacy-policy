@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-21T07:25:11+09:00",
+  "generatedAt": "2026-08-03T13:10:13+09:00",
   "items": [
+    {
+      "id": "2026-08-03-v233-review-flow",
+      "publishedAt": "2026-08-03T13:10:13+09:00",
+      "category": "app_update",
+      "priority": "normal",
+      "title": "v2.3.3: 復習と振り返りを改善",
+      "body": "・復習のおすすめが、開くたびに同じ問題ばかり並びにくくなるよう改善しました。\n・直前に正解した問題はおすすめの後ろに回り、別の問題を探しやすくしました。\n・局終了後の振り返りで、局情報が2行になることがある表示を改善しました。",
+      "minAppVersion": "2.3.3",
+      "maxAppVersion": null,
+      "platforms": ["ios"],
+      "highlightUntil": "2026-08-17T23:59:59+09:00",
+      "url": null
+    },
     {
       "id": "2026-07-21-v232-review-improvements",
       "publishedAt": "2026-07-21T07:25:11+09:00",
