@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T13:10:13+09:00",
+  "generatedAt": "2026-08-04T20:41:26+09:00",
   "items": [
+    {
+      "id": "2026-08-04-intermediate-performance-stability",
+      "publishedAt": "2026-08-04T20:41:26+09:00",
+      "category": "backend_update",
+      "priority": "normal",
+      "title": "中級モードの速度と安定性を改善",
+      "body": "中級モードの評価処理を見直し、計算速度と安定性を改善しました。\n・一部の局面で、結果が返るまでの待ち時間を短縮しました。\n・計算が混み合った場合のサーバー処理を見直しました。",
+      "minAppVersion": "2.0.0",
+      "maxAppVersion": null,
+      "platforms": ["ios"],
+      "highlightUntil": "2026-08-18T23:59:59+09:00",
+      "url": null
+    },
     {
       "id": "2026-08-03-v233-review-flow",
       "publishedAt": "2026-08-03T13:10:13+09:00",
