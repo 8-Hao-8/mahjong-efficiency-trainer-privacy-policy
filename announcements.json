@@ -1,7 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T23:45:04+09:00",
+  "generatedAt": "2026-08-08T00:00:27+09:00",
   "items": [
+    {
+      "id": "2026-08-12-v235-reliability",
+      "publishedAt": "2026-08-12T00:00:00+09:00",
+      "category": "app_update",
+      "priority": "normal",
+      "title": "v2.3.5: 動作の安定性を改善",
+      "body": "・練習や復習で、読み込みや保存に失敗したときの案内と再試行を分かりやすくしました。\n・結果画面の操作や広告終了後の遷移を安定させ、連続タップによる重複処理を起きにくくしました。\n・画面表示と内部処理を整理し、動作の安定性を改善しました。",
+      "minAppVersion": "2.3.5",
+      "maxAppVersion": null,
+      "platforms": [
+        "ios"
+      ],
+      "highlightUntil": "2026-08-26T23:59:59+09:00",
+      "url": null
+    },
     {
       "id": "2026-08-07-v234-stats-dashboard",
       "publishedAt": "2026-08-07T23:45:04+09:00",
