@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T00:00:27+09:00",
+  "generatedAt": "2026-08-09T11:50:45+09:00",
   "items": [
     {
       "id": "2026-08-12-v235-reliability",
@@ -15,6 +15,19 @@
         "ios"
       ],
       "highlightUntil": "2026-08-26T23:59:59+09:00",
+      "url": null
+    },
+    {
+      "id": "2026-08-09-intermediate-reliability",
+      "publishedAt": "2026-08-09T11:50:45+09:00",
+      "category": "backend_update",
+      "priority": "normal",
+      "title": "中級モードの安定性を改善",
+      "body": "・中級モードの計算処理をより安定させました。\n・一時的なエラーが起きた際の処理を改善しました。",
+      "minAppVersion": "2.0.0",
+      "maxAppVersion": null,
+      "platforms": ["ios"],
+      "highlightUntil": "2026-08-23T23:59:59+09:00",
       "url": null
     },
     {
