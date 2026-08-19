@@ -1,7 +1,22 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-12T15:38:27+09:00",
+  "generatedAt": "2026-08-19T18:29:24+09:00",
   "items": [
+    {
+      "id": "2026-08-19-community-candidates",
+      "publishedAt": "2026-08-19T18:29:24+09:00",
+      "category": "notice",
+      "priority": "important",
+      "title": "今日の一打：問題募集中",
+      "body": "練習や復習の結果に表示される「この一打をみんなにも出す」から、問題候補を送れます。送信は任意です。",
+      "minAppVersion": "2.4.0",
+      "maxAppVersion": null,
+      "platforms": [
+        "ios"
+      ],
+      "autoOpen": true,
+      "url": null
+    },
     {
       "id": "2026-08-19-v236-evaluation-reliability",
       "publishedAt": "2026-08-19T00:00:00+09:00",
