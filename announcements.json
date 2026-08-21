@@ -1,19 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T18:29:24+09:00",
+  "generatedAt": "2026-08-21T09:58:59+09:00",
   "items": [
     {
-      "id": "2026-08-19-community-candidates",
-      "publishedAt": "2026-08-19T18:29:24+09:00",
+      "id": "2026-08-21-community-candidates-request",
+      "publishedAt": "2026-08-21T09:58:59+09:00",
       "category": "notice",
       "priority": "important",
-      "title": "今日の一打：問題募集中",
-      "body": "練習や復習の結果に表示される「この一打をみんなにも出す」から、問題候補を送れます。送信は任意です。",
+      "title": "新企画「今日の一打」問題募集のお願い",
+      "body": "いつも「ツモって何切る」をご利用いただき、ありがとうございます。\n\n現在、皆様から寄せられた問題を毎日一問ずつ出題する、新企画「今日の一打」を準備しています。\n\n練習や復習で迷った問題や、間違えて「ほかの人なら解けるかな」と気になった問題があれば、結果画面の問題送信ボタンから、ぜひお送りください。\n\n十分な数が集まり次第、配信を開始します。\n皆様のご協力をお願いいたします。",
       "minAppVersion": "2.4.0",
       "maxAppVersion": null,
       "platforms": [
         "ios"
       ],
+      "highlightUntil": "2026-09-04T23:59:59+09:00",
       "autoOpen": true,
       "url": null
     },
