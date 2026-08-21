@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T10:04:35+09:00",
+  "generatedAt": "2026-08-21T10:11:02+09:00",
   "items": [
     {
       "id": "2026-08-21-community-candidates-request",
@@ -21,10 +21,10 @@
     {
       "id": "2026-08-19-community-candidates",
       "publishedAt": "2026-08-19T18:29:24+09:00",
-      "category": "notice",
-      "priority": "low",
-      "title": "今日の一打：問題募集中",
-      "body": "練習や復習の結果に表示される「この一打をみんなにも出す」から、問題候補を送れます。送信は任意です。",
+      "category": "app_update",
+      "priority": "normal",
+      "title": "v2.4.0: 「今日の一打」の準備を開始",
+      "body": "・新企画「今日の一打」に向けて、練習や復習で迷った問題や、間違えて気になった問題を結果画面から送れるようになりました。\n・問題が十分に集まり次第、「今日の一打」の配信を開始します。\n・大切なお知らせがあるときは、起動後に一度表示するようにしました。",
       "minAppVersion": "2.4.0",
       "maxAppVersion": null,
       "platforms": [
