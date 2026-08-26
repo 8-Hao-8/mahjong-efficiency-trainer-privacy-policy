@@ -1,7 +1,25 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-21T13:49:07+09:00",
+  "generatedAt": "2026-08-26T20:22:03+09:00",
   "items": [
+    {
+      "id": "2026-08-26-v241-result-actions",
+      "publishedAt": "2026-08-26T20:22:03+09:00",
+      "category": "app_update",
+      "priority": "normal",
+      "title": "v2.4.1: 結果画面の操作を整理",
+      "image": {
+        "path": "assets/announcements/2026-08-26-v241-result-actions-v1.jpg",
+        "alt": "練習結果画面下部の「その他」ボタンと、共有・問題候補の送信メニュー"
+      },
+      "body": "・練習や復習の結果画面で、共有や問題候補の送信を「その他」から選べるようにしました。\n・問題候補の送信中も、そのまま前後の場面や次の復習へ進めるようにしました。\n・お知らせで、画面の変更を画像でも確認できるようにしました。",
+      "minAppVersion": "2.4.1",
+      "maxAppVersion": null,
+      "platforms": ["ios"],
+      "highlightUntil": "2026-09-09T23:59:59+09:00",
+      "autoOpen": false,
+      "url": null
+    },
     {
       "id": "2026-08-21-community-candidates-request",
       "publishedAt": "2026-08-26T00:00:00+09:00",
