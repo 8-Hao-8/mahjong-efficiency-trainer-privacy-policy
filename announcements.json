@@ -1,7 +1,21 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-26T20:22:03+09:00",
+  "generatedAt": "2026-08-27T12:59:23+09:00",
   "items": [
+    {
+      "id": "2026-08-27-review-feedback-thanks",
+      "publishedAt": "2026-08-27T12:59:23+09:00",
+      "category": "notice",
+      "priority": "normal",
+      "title": "復習機能へのご意見、ありがとうございます",
+      "body": "復習機能をご活用いただき、改善のご意見もお寄せいただきありがとうございます。\n\nいただいた声をもとに、復習問題を1件ずつ、または複数選んでまとめて削除できるようにし、ロック中の問題は先にロック解除が必要だと分かる案内も追加します。9月2日（水）ごろのアップデートを予定しています。\n\n今後とも「ツモって何切る」をよろしくお願いいたします。",
+      "minAppVersion": "2.4.0",
+      "maxAppVersion": null,
+      "platforms": ["ios"],
+      "highlightUntil": "2026-09-09T23:59:59+09:00",
+      "autoOpen": false,
+      "url": null
+    },
     {
       "id": "2026-08-26-v241-result-actions",
       "publishedAt": "2026-08-26T20:22:03+09:00",
