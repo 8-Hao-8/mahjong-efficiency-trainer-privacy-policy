@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T18:33:20+09:00",
+  "generatedAt": "2026-09-02T08:17:55+09:00",
   "items": [
     {
       "id": "2026-08-29-community-candidate-send-fix",
@@ -24,9 +24,23 @@
       "title": "復習機能を改善します",
       "body": "いつも「ツモって何切る」の復習機能をご活用いただき、ありがとうございます。\nお寄せいただいたご意見をもとに、復習問題を削除できる機能を追加します。\n9月2日（水）ごろのアップデートを予定しています。\n今後とも「ツモって何切る」をよろしくお願いいたします。",
       "minAppVersion": "2.4.0",
-      "maxAppVersion": null,
+      "maxAppVersion": "2.4.1",
       "platforms": ["ios"],
       "highlightUntil": "2026-09-09T23:59:59+09:00",
+      "autoOpen": false,
+      "url": null
+    },
+    {
+      "id": "2026-09-02-v242-review-card-management",
+      "publishedAt": "2026-09-02T08:17:55+09:00",
+      "category": "app_update",
+      "priority": "normal",
+      "title": "v2.4.2: 復習問題を削除できるようになりました",
+      "body": "・復習問題を1件ずつ、または複数選んでまとめて削除できるようにしました。\n・ロック済みの問題は、先にロックを解除してから削除できます。\n・削除されるのは復習カードだけで、練習履歴と成績の数値は残ります。",
+      "minAppVersion": "2.4.2",
+      "maxAppVersion": null,
+      "platforms": ["ios"],
+      "highlightUntil": "2026-09-16T23:59:59+09:00",
       "autoOpen": false,
       "url": null
     },
