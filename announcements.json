@@ -1,7 +1,21 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T08:31:23+09:00",
+  "generatedAt": "2026-09-10T21:24:11+09:00",
   "items": [
+    {
+      "id": "2026-09-10-v250-intermediate-evaluation",
+      "publishedAt": "2026-09-10T21:24:11+09:00",
+      "category": "app_update",
+      "priority": "normal",
+      "title": "v2.5.0: 中級モードの評価を改善",
+      "body": "いつも「ツモって何切る」をご利用いただき、ありがとうございます。\n\n・中級モードで国士無双の評価に対応し、通常手・七対子・国士無双を期待値で比較できるようにしました。\n・期待値がほぼ同じ打牌でも、向聴数だけを理由に不正解になる問題を修正しました。\n・復習の判定と、不具合報告に含まれる局面情報も改善しました。",
+      "minAppVersion": "2.5.0",
+      "maxAppVersion": null,
+      "platforms": ["ios"],
+      "highlightUntil": "2026-09-24T23:59:59+09:00",
+      "autoOpen": false,
+      "url": null
+    },
     {
       "id": "2026-09-04-intermediate-known-issues",
       "publishedAt": "2026-09-04T08:31:23+09:00",
