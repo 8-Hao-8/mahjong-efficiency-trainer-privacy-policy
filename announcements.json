@@ -1,7 +1,21 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T21:24:11+09:00",
+  "generatedAt": "2026-09-12T09:18:46+09:00",
   "items": [
+    {
+      "id": "2026-09-12-v251-update",
+      "publishedAt": "2026-09-12T09:18:46+09:00",
+      "category": "app_update",
+      "priority": "normal",
+      "title": "v2.5.1 更新のお知らせ",
+      "body": "いつも「ツモって何切る」をご利用いただき、ありがとうございます。\n振り返り・復習から「今日の一打」の問題候補を送りやすくしました。\nあわせて、練習記録の保存と統計画面の読み込みを改善しました。",
+      "minAppVersion": "2.5.1",
+      "maxAppVersion": null,
+      "platforms": ["ios"],
+      "highlightUntil": "2026-09-26T23:59:59+09:00",
+      "autoOpen": false,
+      "url": null
+    },
     {
       "id": "2026-09-10-v250-intermediate-evaluation",
       "publishedAt": "2026-09-10T21:24:11+09:00",
