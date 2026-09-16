@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T00:20:04+09:00",
+  "generatedAt": "2026-09-17T00:35:49+09:00",
   "items": [
     {
       "id": "2026-09-17-android-beta-testers",
@@ -15,8 +15,7 @@
         "ios"
       ],
       "autoOpen": false,
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdGz4m1j7NySrvO2mzAgKeGC9SjOW_WOs1bHn8PgzPEuRuSzA/viewform",
-      "urlLabel": "応募フォーム"
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdGz4m1j7NySrvO2mzAgKeGC9SjOW_WOs1bHn8PgzPEuRuSzA/viewform"
     },
     {
       "id": "2026-09-16-v252-update",
