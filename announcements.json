@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T09:49:43+09:00",
+  "generatedAt": "2026-09-27T22:39:05+09:00",
   "items": [
+    {
+      "id": "2026-09-30-v260-update",
+      "publishedAt": "2026-09-30T00:00:00+09:00",
+      "category": "app_update",
+      "priority": "normal",
+      "title": "v2.6.0 自分の打ち筋を見直す",
+      "body": "・練習の記録に同じ種類のミスが重なると、統計に「最近のミスの傾向」を表示します。「打点を追いすぎる」など、自分の選び方を見直す手がかりになります。\n・見つかった傾向から、その時の自分の局面にもう一度挑戦できます。先に一打を選んでから、前回の一打と最善の一打を比べられます。\n・中級モードは、計算に時間がかかる場面でも結果を待てるように調整しました。",
+      "minAppVersion": "2.6.0",
+      "maxAppVersion": null,
+      "platforms": [
+        "ios"
+      ],
+      "highlightUntil": "2026-10-14T23:59:59+09:00",
+      "autoOpen": false,
+      "url": null
+    },
     {
       "id": "2026-09-20-intermediate-ev-improvement",
       "publishedAt": "2026-09-20T09:49:43+09:00",
