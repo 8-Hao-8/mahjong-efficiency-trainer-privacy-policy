@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T13:56:41+09:00",
+  "generatedAt": "2026-10-15T14:36:29+09:00",
   "items": [
+    {
+      "id": "2026-10-15-v311-update",
+      "publishedAt": "2026-10-15T14:36:29+09:00",
+      "category": "app_update",
+      "priority": "normal",
+      "title": "v3.1.1 お知らせとヘルプを読みやすく",
+      "body": "・お知らせの履歴から記事を選び、過去の更新内容を読み返しやすくしました。\n・画面の広さや文字サイズに合わせて表示を調整し、本文を開いたお知らせだけが既読になるようにしました。\n・ヘルプや設定などの画面を整理し、見出しと内容を見分けやすくしました。",
+      "minAppVersion": "3.1.1",
+      "maxAppVersion": null,
+      "platforms": [
+        "ios"
+      ],
+      "highlightUntil": "2026-10-29T23:59:59+09:00",
+      "autoOpen": false,
+      "url": null
+    },
     {
       "id": "2026-10-14-v310-update",
       "publishedAt": "2026-10-14T00:00:00+09:00",
