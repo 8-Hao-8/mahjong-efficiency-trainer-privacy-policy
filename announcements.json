@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T14:36:29+09:00",
+  "generatedAt": "2026-10-17T08:51:07+09:00",
   "items": [
+    {
+      "id": "2026-10-17-yonma-intermediate-speed",
+      "publishedAt": "2026-10-17T08:51:07+09:00",
+      "category": "backend_update",
+      "priority": "normal",
+      "title": "四麻中級モードの計算を高速化しました",
+      "body": "・四麻の中級モードで、結果が出るまでの待ち時間を短縮しました。\n・評価基準や計算精度はそのままに、一部の局面で時間切れになる問題を改善しました。\n・アプリの更新は不要で、すでに反映されています。",
+      "minAppVersion": "2.0.0",
+      "maxAppVersion": null,
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "highlightUntil": "2026-10-31T23:59:59+09:00",
+      "autoOpen": false,
+      "url": null
+    },
     {
       "id": "2026-10-15-v311-update",
       "publishedAt": "2026-10-15T14:36:29+09:00",
