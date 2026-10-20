@@ -1,7 +1,26 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T08:51:07+09:00",
+  "generatedAt": "2026-10-20T23:15:59+09:00",
   "items": [
+    {
+      "id": "2026-10-20-v312-update",
+      "publishedAt": "2026-10-20T23:15:59+09:00",
+      "category": "app_update",
+      "priority": "normal",
+      "title": "v3.1.2 ホームと復習を改善",
+      "body": "・ホームの牌イラストを見やすくし、戻ったときに開始ボタンや下部案内がちらつく問題を改善しました。\n・広告非表示をご購入の方には、ホーム下部に更新情報などの案内を表示し、横スワイプや一時停止に対応しました。\n・復習・統計の読み込みを効率化し、三麻の復習結果の反映、問題の削除、通信エラー後の再試行を改善しました。",
+      "minAppVersion": "3.1.2",
+      "maxAppVersion": null,
+      "platforms": [
+        "ios"
+      ],
+      "highlightUntil": "2026-11-03T23:59:59+09:00",
+      "autoOpen": false,
+      "url": null,
+      "homeBanner": {
+        "title": "v3.1.2 ホームと復習を改善"
+      }
+    },
     {
       "id": "2026-10-17-yonma-intermediate-speed",
       "publishedAt": "2026-10-17T08:51:07+09:00",
@@ -49,10 +68,7 @@
       ],
       "highlightUntil": "2026-10-28T23:59:59+09:00",
       "autoOpen": false,
-      "url": null,
-      "homeBanner": {
-        "title": "v3.1.0 三麻の中級練習に対応"
-      }
+      "url": null
     },
     {
       "id": "2026-10-07-v300-update",
