@@ -1,7 +1,26 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T10:06:43+09:00",
+  "generatedAt": "2026-11-11T20:25:32+09:00",
   "items": [
+    {
+      "id": "2026-11-11-v315-update",
+      "publishedAt": "2026-11-11T20:25:32+09:00",
+      "category": "app_update",
+      "priority": "normal",
+      "title": "v3.1.5 復習カードと「今日の一打」を改善",
+      "body": "・復習カードが上限に達し、すべてロックされているときに、保存できなかったカードが「復習に保存済み」と表示される不具合を修正しました。\n・復習カードのロックを続けてタップしても、実際のロック状態が画面に反映されるようにしました。\n・「今日の一打」で、回答後に集計が古い件数に戻る不具合を修正しました。最新の集計を読み込めないときは、前回の集計があれば表示します。\n・練習履歴が多いときの統計の読み込みを改善しました。",
+      "minAppVersion": "3.1.5",
+      "maxAppVersion": null,
+      "platforms": [
+        "ios"
+      ],
+      "highlightUntil": "2026-11-25T23:59:59+09:00",
+      "autoOpen": false,
+      "url": null,
+      "homeBanner": {
+        "title": "v3.1.5 復習カードと「今日の一打」を改善"
+      }
+    },
     {
       "id": "2026-11-04-v314-update",
       "publishedAt": "2026-11-04T10:06:43+09:00",
@@ -16,10 +35,7 @@
       ],
       "highlightUntil": "2026-11-18T23:59:59+09:00",
       "autoOpen": false,
-      "url": null,
-      "homeBanner": {
-        "title": "v3.1.4 統計とタイマーを改善"
-      }
+      "url": null
     },
     {
       "id": "2026-10-28-v313-update",
