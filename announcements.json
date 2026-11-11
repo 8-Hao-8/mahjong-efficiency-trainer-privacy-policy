@@ -1,7 +1,26 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T20:25:32+09:00",
+  "generatedAt": "2026-11-11T20:36:23+09:00",
   "items": [
+    {
+      "id": "2026-11-11-oshihiki-release",
+      "publishedAt": "2026-11-11T20:36:23+09:00",
+      "category": "notice",
+      "priority": "normal",
+      "title": "姉妹アプリ「ツモって押し引き」リリースのお知らせ",
+      "body": "いつも「ツモって何切る」をご利用いただきありがとうございます。\n\n麻雀の守備と押し引きに特化した練習アプリ「ツモって押し引き」を、iPhone・iPad向けにリリースしました。\n\n・相手のリーチを受けた場面で、手牌と捨て牌を見ながら、押すか降りるかを考えて打牌を選びます。\n・打牌後は、自分が切った牌とほかの候補の局収支（その局で見込める点数の増減）を比べられます。\n・練習は自動で履歴に残ります。迷った場面は、同じ局面から別の牌を切って試せます。\n\n基本の練習は無料です。\n\n▼ App Storeからダウンロード\nhttps://apps.apple.com/jp/app/id6827034350",
+      "minAppVersion": null,
+      "maxAppVersion": null,
+      "platforms": [
+        "ios"
+      ],
+      "highlightUntil": null,
+      "autoOpen": false,
+      "url": "https://apps.apple.com/jp/app/id6827034350",
+      "homeBanner": {
+        "title": "姉妹アプリ「ツモって押し引き」配信開始"
+      }
+    },
     {
       "id": "2026-11-11-v315-update",
       "publishedAt": "2026-11-11T20:25:32+09:00",
