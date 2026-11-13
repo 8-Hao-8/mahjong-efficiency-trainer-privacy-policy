@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T20:36:23+09:00",
+  "generatedAt": "2026-11-13T16:56:00+09:00",
   "items": [
+    {
+      "id": "2026-11-13-sanma-intermediate-scoring",
+      "publishedAt": "2026-11-13T16:56:00+09:00",
+      "category": "backend_update",
+      "priority": "normal",
+      "title": "三麻中級モードの採点を修正しました",
+      "body": "・一部の局面で、打牌後に採点結果が表示されない不具合を修正しました。\n・北抜きを選べる局面などで、ツモの確率の計算を見直しました。これにより、一部の局面で推奨牌や採点が変わります。\n・修正はすでに反映されています。アプリの更新は不要です。",
+      "minAppVersion": "3.1.0",
+      "maxAppVersion": null,
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "highlightUntil": null,
+      "autoOpen": false,
+      "url": null
+    },
     {
       "id": "2026-11-11-oshihiki-release",
       "publishedAt": "2026-11-11T20:36:23+09:00",
