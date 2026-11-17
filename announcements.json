@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T16:56:00+09:00",
+  "generatedAt": "2026-11-18T00:29:29+09:00",
   "items": [
+    {
+      "id": "2026-11-18-v316-update",
+      "publishedAt": "2026-11-18T00:29:29+09:00",
+      "category": "app_update",
+      "priority": "normal",
+      "title": "v3.1.6 表示と動作を改善しました",
+      "body": "・受け入れの種類数を、練習結果・復習・共有で揃えました。残り0枚の牌は種類数に含めないようにしました。\n・「今日の一打」で、回答を匿名集計に送るかどうかの設定が正しく反映されるようにしました。\n・起動時に表示されるロゴの四隅から、白い余白を取り除きました。\n・ストアから応答がないときに、購入情報の読み込みが終わらない問題を修正しました。\n・復習カードの状態表示を改善し、練習・統計・通信の動作を安定させました。",
+      "minAppVersion": "3.1.6",
+      "maxAppVersion": null,
+      "platforms": [
+        "ios"
+      ],
+      "highlightUntil": null,
+      "autoOpen": false,
+      "url": null
+    },
     {
       "id": "2026-11-13-sanma-intermediate-scoring",
       "publishedAt": "2026-11-13T16:56:00+09:00",
