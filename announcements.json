@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T00:29:29+09:00",
+  "generatedAt": "2026-11-18T11:50:15+09:00",
   "items": [
+    {
+      "id": "2026-11-18-intermediate-evaluation-speed",
+      "publishedAt": "2026-11-18T11:50:15+09:00",
+      "category": "backend_update",
+      "priority": "normal",
+      "title": "中級の打牌評価が速くなりました",
+      "body": "・四麻では、国士無双を含む一部の局面で、打牌してから評価が出るまでの待ち時間を短くしました。\n・三麻では、北を抜くか手に残すかを比べる局面で、評価にかかる時間を短くしました。\n・採点基準はこれまでと同じです。アプリの更新は不要です。",
+      "minAppVersion": "3.1.0",
+      "maxAppVersion": null,
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "highlightUntil": null,
+      "autoOpen": false,
+      "url": null
+    },
     {
       "id": "2026-11-18-v316-update",
       "publishedAt": "2026-11-18T00:29:29+09:00",
