@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T11:50:15+09:00",
+  "generatedAt": "2026-11-25T07:35:52+09:00",
   "items": [
+    {
+      "id": "2026-11-25-v317-update",
+      "publishedAt": "2026-11-25T07:35:52+09:00",
+      "category": "app_update",
+      "priority": "normal",
+      "title": "v3.1.7 保存・共有・通信を改善しました",
+      "body": "・「今日の一打」で、画面を閉じた後に送信が成功した場合も、送信済みの状態を正しく保存するようにしました。\n・共有時に、画像と本文の内容がずれる問題を修正しました。\n・設定の読み込みや保存に失敗したときの案内と表示を改善しました。\n・お知らせの更新時に、古い内容へ戻ることがある問題を修正しました。\n・中級モードの不要な通信や練習中の重複処理を減らし、動作の安定性を改善しました。",
+      "minAppVersion": "3.1.7",
+      "maxAppVersion": null,
+      "platforms": [
+        "ios"
+      ],
+      "highlightUntil": null,
+      "autoOpen": false,
+      "url": null
+    },
     {
       "id": "2026-11-18-intermediate-evaluation-speed",
       "publishedAt": "2026-11-18T11:50:15+09:00",
