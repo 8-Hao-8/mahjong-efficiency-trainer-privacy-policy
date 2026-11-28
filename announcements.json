@@ -1,7 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T00:37:11+09:00",
+  "generatedAt": "2026-11-28T20:02:35+09:00",
   "items": [
+    {
+      "id": "2026-11-28-v318-update",
+      "publishedAt": "2026-11-28T20:02:35+09:00",
+      "category": "app_update",
+      "priority": "normal",
+      "title": "3.1.8の更新内容",
+      "body": "・広告の表示を改善しました。\n・三麻で、北抜き前に選んだ牌が次の局面の打牌に反映されることがある不具合を修正しました。\n・同じ復習カードに続けて答えたときも、回答した分だけ回数が記録されます。\n・ホーム、復習カード、統計グラフの表示を見直しました。練習履歴が多い場合も、統計をより早く開けます。\n・広告非表示の購入状態を確認できないときは、設定の「広告非表示」欄から「再読み込み」を選べます。",
+      "minAppVersion": "3.1.8",
+      "maxAppVersion": null,
+      "platforms": [
+        "ios"
+      ],
+      "highlightUntil": null,
+      "autoOpen": false,
+      "url": null
+    },
     {
       "id": "2026-11-27-intermediate-scoring-reliability",
       "publishedAt": "2026-11-27T00:37:11+09:00",
